@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-Autor: Virginia Martín Donoso
+### Autor: Virginia Martín Donoso
 
 Fecha: 16/05/2025
 

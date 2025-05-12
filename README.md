@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - *Coding Geek* [en línea] [consulta:mayo de 2025]. Disponible en: https://web.archive.org/web/20180710041442/http://coding-geek.com/how-shazam-works/
 - Martín Barbero, Iván, cómo utilizar Shazam con Spotify para tener tus listas actualizadas. En: *Cinco días* [en línea].15 de septiembre de 2022 [consulta:mayo de 2025]. Disponible en: https://cincodias.elpais.com/smartlife/2022/09/15/lifestyle/1663217670_538024.html
 - Oleg, Luis, la huella digital de la música. En: *PROz* [en línea].3 de marzo de 2020 [consulta:mayo de 2025]. Disponible en: https://proleon.com.mx/estilo_de_vida/la-huella-digital-de-la-musica/
-- Palomino, Kevin. Medios digitales: ¿Qué son y cuáles son los tipos? [en línea]. **Blog de la Universidad del Sur de New Hampshire**, 6 de febrero de 2025 [consulta: mayo de 2025]. Disponible en: https://es.snhu.edu/blog/cuales-son-los-tipos-de-medios-digitales#:~:text=Son%20los%20espacios%20en%20los,se%20encuentran%20disponibles%20en%20internet
+- Palomino, Kevin. Medios digitales: ¿Qué son y cuáles son los tipos? [en línea]. *Blog de la Universidad del Sur de New Hampshire*, 6 de febrero de 2025 [consulta: mayo de 2025]. Disponible en: https://es.snhu.edu/blog/cuales-son-los-tipos-de-medios-digitales#:~:text=Son%20los%20espacios%20en%20los,se%20encuentran%20disponibles%20en%20internet
 - 
 
  

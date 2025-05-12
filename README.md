@@ -47,7 +47,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Bibliografía y webgrafía
 
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
-* How does the Shazam app recognize music? An explanation of music recognition technology used in the Shazam app [en línea] [consulta:mayo de 2025].Disponible en: https://www.techaheadcorp.com/blog/decoding-shazam-how-does-music-recognition-work-with-shazam-app/
+* *How does the Shazam app recognize music? An explanation of music recognition technology used in the Shazam app* [en línea] [consulta:mayo de 2025].Disponible en: https://www.techaheadcorp.com/blog/decoding-shazam-how-does-music-recognition-work-with-shazam-app/
+* *Coding Geek* [en línea] [consulta:mayo de 2025]. Disponible en: https://web.archive.org/web/20180710041442/http://coding-geek.com/how-shazam-works/
+* Martín Barbero, Iván, cómo utilizar Shazam con Spotify para tener tus listas actualizadas. En: *Cinco días* [en línea].15 de septiembre de 2022 [consulta:mayo de 2025]. Disponible en: https://cincodias.elpais.com/smartlife/2022/09/15/lifestyle/1663217670_538024.html
+* Oleg, Luis, la huella digital de la música. En: *PROz* [en línea].3 de marzo de 2020 [consulta:mayo de 2025]. Disponible en: https://proleon.com.mx/estilo_de_vida/la-huella-digital-de-la-musica/
+* 
  
 
 

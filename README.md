@@ -12,7 +12,7 @@ Fecha: 16/05/2025
 
 Para realizar un análisis sobre si una aplicación es una hibridación de medios o un caso de multimedia, tenemos que diferenciar qué es cada una: En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro […] Cada elemento de un mensaje multimedia se abre en su propio visor. Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno. (Manovich, 2013, p141).
 
-Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: Shazam y LabXChange.
+Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: Shazam y LabXChange.<br><br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="200"/>
 

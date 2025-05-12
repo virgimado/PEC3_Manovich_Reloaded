@@ -46,9 +46,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Bibliografía y webgrafía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* How does the Shazam app recognize music? An explanation of music recognition technology used in the Shazam app [en línea] [consulta:mayo de 2025].Disponible en: https://www.techaheadcorp.com/blog/decoding-shazam-how-does-music-recognition-work-with-shazam-app/
-* 
+ Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+ How does the Shazam app recognize music? An explanation of music recognition technology used in the Shazam app [en línea] [consulta:mayo de 2025].Disponible en: https://www.techaheadcorp.com/blog/decoding-shazam-how-does-music-recognition-work-with-shazam-app/
+ 
 
 
 ----

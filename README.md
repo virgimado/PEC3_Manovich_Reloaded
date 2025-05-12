@@ -8,7 +8,7 @@ Autor:
 
 Fecha: 
 
-(https://img.freepik.com/vector-gratis/ilustracion-isometrica-devops_52683-84175.jpg)
+!(https://img.freepik.com/vector-gratis/ilustracion-isometrica-devops_52683-84175.jpg)
 
 
 

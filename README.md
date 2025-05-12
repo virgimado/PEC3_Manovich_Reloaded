@@ -16,7 +16,7 @@ Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: S
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="150"/>
 
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
 
@@ -39,7 +39,7 @@ Entre las técnicas independientes del medio están:
 
 
 
-<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="200"/>
+<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

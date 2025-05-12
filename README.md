@@ -14,7 +14,7 @@ Para realizar un análisis sobre si una aplicación es una hibridación de medio
 
 Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: Shazam y LabXChange.
 
-<p style="margin-top:500px;">
+<p style="margin-top:500;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="200"/>
 </p>
 

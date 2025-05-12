@@ -39,7 +39,7 @@ Entre las técnicas independientes del medio están:
 
 
 
-<img src="https://cdn.indiabioscience.org/imager/articles/247150/LabXchange_Logo_copy_277f9d8807f2ed352b34d73616cc90cc.webp" alt="logo labxchange" width="200"/>
+<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="200"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

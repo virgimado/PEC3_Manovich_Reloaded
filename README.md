@@ -18,7 +18,7 @@ Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: S
 
 
 
-![shazam](https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg)
+![shazam](https://static.wikia.nocookie.net/logopedia/images/4/42/Shazam_%28Vertical%29.svg/revision/latest?cb=20171015110910)
 
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
 

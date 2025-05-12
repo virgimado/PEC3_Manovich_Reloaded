@@ -39,7 +39,7 @@ Entre las técnicas independientes del medio están:
 
 
 
-<img src="https://educaciondigital.unnoba.edu.ar/wp-content/uploads/a173de1eab70b727ba03d128aa4050d398efb0b2-1024x512.png" alt="logo labxchange" width="200"/>
+<img src="https://educaciondigital.unnoba.edu.ar/wp-content/uploads/a173de1eab70b727ba03d128aa4050d398efb0b2-1024x512.png" alt="logo labxchange" width="400"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

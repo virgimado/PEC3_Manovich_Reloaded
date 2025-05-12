@@ -1,8 +1,8 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Autor: Virginia Martín Donoso
+#### Autor: Virginia Martín Donoso
 
-Fecha: 16/05/2025
+#### Fecha: 16/05/2025
 
 ![Hibridación](https://img.freepik.com/vector-gratis/ilustracion-isometrica-devops_52683-84175.jpg)
 

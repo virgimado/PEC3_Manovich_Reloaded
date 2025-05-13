@@ -72,6 +72,10 @@ Se pueden considerar técnicas independientes las utilizadas para mostrar el con
 
 Incluso si se da un enfoque relacionado con el entorno digital, en estos recursos se muestran técnicas que no tienen relación, ya que se usan en laboratorios y otros ámbitos científicos como por ejemplo el uso de pipetas.
 
+
+### Conclusión
+
+
 ### Bibliografía y webgrafía
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.

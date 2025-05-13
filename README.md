@@ -41,18 +41,47 @@ Entre las técnicas independientes del medio están:
 
 <img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
 
+En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva.
+
+Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
+
+Aunque se fomenta el aprendizaje activo a través de los recursos interactivos, y se pueden diseñar y personalizar, no se crea un nuevo lenguaje al tratarse de una plataforma con contenido basado en textos, vídeos explicativos, etc existente en el ámbito educativo. 
+
+Se considera una plataforma de medios porque aloja contenido y permite formar parte de una comunidad, además de personalizar las preferencias para poder obtener contenido según las necesidades.
+
+En la web se presentan tres opciones principales que son:
+
+- Explorar: Descubir contentido
+- Crear: Personalización
+- Compartir: Comunidad de profesores y alumnos.
+
+Además contiene una biblioteca con todos los recursos y personas que forman parte de la comunidad y las fuentes desde las que se obtiene el material.
+
+Entre el contenido se pueden diferenciar distintos tipos de recursos:
+- Vídeos
+- Simuladores interactivos
+- Guías didácticas
+- Material interactivo
+- Grupos con diferentes combinaciones de los anteriores
+
+La estética de la hibridación se muestra ordenada, intuitiva y sencilla. El usuario distingue cada tipo de material y la combinación de las distintas técnicas para la elaboración de cada recurso se complementa perfectamente hasta obtener el material final con el que el usuario realizará su experiencia.
+
+Se pueden considerar técnicas independientes las utilizadas para mostrar el contenido personalizado según las preferencias del usuario. También lo serían las técnicas que hacen que se agrupen los diferentes recursos y convergen en un mismo recurso de aprendizaje.
+
+Incluso si se da un enfoque relacionado con el entorno digital, en estos recursos se muestran técnicas que no tienen relación, ya que se usan en laboratorios y otros ámbitos científicos como por ejemplo el uso de pipetas.
 
 ### Bibliografía y webgrafía
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
 - *How does the Shazam app recognize music? An explanation of music recognition technology used in the Shazam app* [en línea] [consulta:mayo de 2025].Disponible en: https://www.techaheadcorp.com/blog/decoding-shazam-how-does-music-recognition-work-with-shazam-app/
 - *Coding Geek* [en línea] [consulta:mayo de 2025]. Disponible en: https://web.archive.org/web/20180710041442/http://coding-geek.com/how-shazam-works/
-- Martín Barbero, Iván, cómo utilizar Shazam con Spotify para tener tus listas actualizadas. En: *Cinco días* [en línea].15 de septiembre de 2022 [consulta:mayo de 2025]. Disponible en: https://cincodias.elpais.com/smartlife/2022/09/15/lifestyle/1663217670_538024.html
+- Martín Barbero, Iván, cómo utilizar Shazam con Spotify para tener tus listas actualizadas. En: *Cinco días* [en línea]. 15 de septiembre de 2022 [consulta:mayo de 2025]. Disponible en: https://cincodias.elpais.com/smartlife/2022/09/15/lifestyle/1663217670_538024.html
 - Oleg, Luis, la huella digital de la música. En: *PROz* [en línea].3 de marzo de 2020 [consulta:mayo de 2025]. Disponible en: https://proleon.com.mx/estilo_de_vida/la-huella-digital-de-la-musica/
-- Palomino, Kevin. Medios digitales: ¿Qué son y cuáles son los tipos? [en línea]. *Blog de la Universidad del Sur de New Hampshire*, 6 de febrero de 2025 [consulta: mayo de 2025]. Disponible en: https://es.snhu.edu/blog/cuales-son-los-tipos-de-medios-digitales#:~:text=Son%20los%20espacios%20en%20los,se%20encuentran%20disponibles%20en%20internet
-- 
+- Palomino, Kevin. Medios digitales: ¿Qué son y cuáles son los tipos? [en línea]. En: *Blog de la Universidad del Sur de New Hampshire*, [en línea] 6 de febrero de 2025 [consulta: mayo de 2025]. Disponible en: https://es.snhu.edu/blog/cuales-son-los-tipos-de-medios-digitales#:~:text=Son%20los%20espacios%20en%20los,se%20encuentran%20disponibles%20en%20internet
+- LabXChange [en línea][consulta: mayo de 2025].Disponible en: https://www.labxchange.org/
+- LabXchange, la plataforma de ciencias de Harvard, proporciona una herramienta gratuita para crear clases y caminos en línea. En: *iblnews.es* [en línea]. 5 de abril de 2020[consulta:mayo de 2025]. Disponible en:https://iblnews.es/la-plataforma-cientifica-labxchange-harvards-proporciona-una-herramienta-gratuita-para-crear-clases-y-caminos-en-linea/
 
  
 

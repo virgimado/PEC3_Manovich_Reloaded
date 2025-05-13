@@ -26,7 +26,7 @@ En este caso concreto se podría considerar en que es una evolución de medios y
 
 Se crea un nuevo lenguaje basado en todas las técnicas anteriores, que además se puede compartir con otras aplicaciones que siguen siendo interactivas como por ejemplo Spotify. Antes, la identificación de una canción se hacía directamente desde el conocimiento de la persona, ahora, la tecnología lo sustituye, realizándose de forma automática y prácticamente instantánea.
 
-Aunque se conecta con otras aplicaciones, no se puede considerar una plataforma de medios, ya que sirve para identificar canciones pero no permite interactuar con otros usuarios ni tampoco intercambiar información entre ellos desde la plataforma. En este caso habría que utilizar las aplicaciones con las que se enlaza.
+Aunque se conecta con otras aplicaciones, no se puede considerar una plataforma de medios, ya que sirve para identificar canciones pero no permite interactuar con otros usuarios ni tampoco intercambiar información entre ellos desde la plataforma. En este caso habría que utilizar las aplicaciones con las que se enlaza para poder escuchar una canción entera, ver el vídeo o crear listas personalizadas y compartir el contenido.
 
 En las estrategias de hibridación se pueden observar, primero la creación de la huella digital de audio, pasando la música analógica a la digitalización y colocándolas en una base de datos donde se almacenan. Para el reconocimiento de la canción, hay que pasar la canción de forma analógica a digital, al captarla con el dispositivo. El paso siguiente es reconocer esa canción utilizando el algoritmo que identifica la canción en Shazam, enviando la respuesta al dispositivo.
 

@@ -64,6 +64,7 @@ Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enf
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
 
 En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva.
+
 <img src="https://img.freepik.com/vector-gratis/banner-isometrico-automatizacion-marketing-2020-seo_107791-643.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="tecnología" width="150">
 
 Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.

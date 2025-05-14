@@ -79,6 +79,8 @@ En la web se presentan tres opciones principales que son:
 
 Además contiene una biblioteca con todos los recursos y personas que forman parte de la comunidad y las fuentes desde las que se obtiene el material.
 
+<img src="https://img.freepik.com/vector-gratis/curso-distancia-isometrico_98292-7151.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="biblioteca online" width="200">
+
 Entre el contenido se pueden diferenciar distintos tipos de recursos:
 - Vídeos
 - Simuladores interactivos

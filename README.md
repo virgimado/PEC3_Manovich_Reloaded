@@ -40,8 +40,9 @@ Entre las técnicas independientes del medio están:
 
 Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.
 
-
+<a href="https://www.labxchange.org/">
 <img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/> <https://www.labxchange.org/>
+</a>
 
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
 

@@ -16,7 +16,7 @@ Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: S
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="150"/> <https://www.shazam.com/es-es>
 
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
 
@@ -39,10 +39,8 @@ Entre las técnicas independientes del medio están:
 
 Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.
 
-<https://www.shazam.com/es-es>
 
-
-<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/>
+<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/> <https://www.labxchange.org/>
 
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
 
@@ -77,7 +75,7 @@ Incluso si se da un enfoque relacionado con el entorno digital, en estos recurso
 
 Se combinan diferentes tipos de medios media e interactivos que en conjunto crean una herramienta adaptada para la enseñanza y el aprendizaje de distintos temas científicos.
 
-<https://www.labxchange.org/>
+
 
 ### Conclusión
 

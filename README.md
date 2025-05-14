@@ -91,15 +91,12 @@ Además contiene una biblioteca con todos los recursos y personas que forman par
 
 Entre el contenido se pueden diferenciar distintos tipos de recursos:
 - Vídeos
-  <img src="Vídeos.png" alt="video" width="200">
 - Simuladores interactivos
-  <img src="Simulador.png" alt="simulador" width="200">
 - Guías didácticas
 - Material interactivo
 - Grupos con diferentes combinaciones de los anteriores
-  <img src="Varios.png" alt="varios recursos" width="200">
-
-
+  
+ <img src="Vídeos.png" alt="video" width="200"> <img src="Simulador.png" alt="simulador" width="200"> <img src="Varios.png" alt="varios recursos" width="200">
 
 La estética de la hibridación se muestra ordenada, intuitiva y sencilla. El usuario distingue cada tipo de material y la combinación de las distintas técnicas para la elaboración de cada recurso se complementa perfectamente hasta obtener el material final con el que el usuario realizará su experiencia.
 

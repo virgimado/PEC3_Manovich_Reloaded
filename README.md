@@ -69,7 +69,9 @@ Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enf
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
 En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva. 
 
-<img src="Simulador.png" alt="simulador" width="200" style="margin:10"><img src="Varios.png" alt="simulador" style="margin:10" width="200"><img src="Vídeos.png" alt="simulador" width="200">
+
+![Recursos](Recursos.png)
+                   [Cómo funciona.](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
 
 
 Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
@@ -92,13 +94,17 @@ Además contiene una biblioteca con todos los recursos y personas que forman par
 
 Entre el contenido se pueden diferenciar distintos tipos de recursos:
 - Vídeos
+- <img src="Vídeos.png" alt="video" width="200">
 - Simuladores interactivos
+  <img src="Simulador.png" alt="simulador" width="200">
 - Guías didácticas
 - Material interactivo
+  <img src="Varios.png" alt="varios recursos" width="200">
+
 - Grupos con diferentes combinaciones de los anteriores
 
-![Recursos](Recursos.png)
-                   [Cómo funciona.](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
+
+
 
 La estética de la hibridación se muestra ordenada, intuitiva y sencilla. El usuario distingue cada tipo de material y la combinación de las distintas técnicas para la elaboración de cada recurso se complementa perfectamente hasta obtener el material final con el que el usuario realizará su experiencia.
 

@@ -71,7 +71,7 @@ En este caso se trata de un recurso multimedia donde se combinan imágenes, víd
 <img src="https://img.freepik.com/vector-gratis/conjunto-dibujos-animados-iconos-ciencia_1284-24173.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="tecnología" width="150">
 </p>
 
-[![Video LabXChange](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
+[![Video LabXChange](https://img.freepik.com/vector-gratis/plantilla-barra-reproductor-video-negro-brillante_1017-23405.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740)](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
 
 Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
 

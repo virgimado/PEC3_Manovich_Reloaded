@@ -24,7 +24,9 @@ Es una aplicación basada en reconocimiento automático para averiguar canciones
 
 Es una hibridación de medios donde se conectan diferentes tecnologías para poder llegar al resultado final, averiguar qué canción es la que estamos escuchando, en tan solo unos segundos.
 
+<p align="center">
 <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-interfaz-voz_114360-4285.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="escuchar musica" width="200"/>  
+</p>
 
 En este caso concreto se podría considerar en que es una evolución de medios y también se podría enfocar con una perspectiva de remezcla de medios. La primera porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer, de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material. Y en la segunda porque se combinan varios recursos para poder identificar la canción como son la creación del registro donde se almacenarán todas las canciones, pasando por la captación de la canción y terminando con la utilización de diferentes algoritmos para su identificación.
 
@@ -49,9 +51,9 @@ Entre las técnicas independientes del medio están:
 - Las técnicas utilizadas es la que identifica la canción basándose en el patrón que tiene cada canción, usando los datos anteriormente descritos para crear la huella.
 - Hay técnicas para mostrar el resultado con la información de la carátula del disco y el artista y las que se utilizan para sugerir la música del estilo a la encontrada.
 
-
+<p align="center">
 <img src="https://img.freepik.com/vector-gratis/fondo-diseno-ondas-sonoras-musicales-abstractas_1048-20072.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="melodia" width="150">  
-
+</p>
 
 Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.<br><br>
 
@@ -65,7 +67,9 @@ Es una plataforma online gratuita que ofrece a profesores y alumnos contenido di
 
 En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva.
 
+<p align="center">
 <img src="https://img.freepik.com/vector-gratis/conjunto-dibujos-animados-iconos-ciencia_1284-24173.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="tecnología" width="200">
+</p>
 
 Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
 

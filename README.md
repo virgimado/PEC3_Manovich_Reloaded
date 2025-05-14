@@ -16,7 +16,7 @@ Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: *
 
 
 <a href="https://www.shazam.com/es-es">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="150"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="100"/> 
 </a>
 
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
@@ -56,7 +56,7 @@ Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enf
 
 
 <a href="https://www.labxchange.org/">
-<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/> <https://www.labxchange.org/>
+<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="100"/> <https://www.labxchange.org/>
 </a>
 
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).

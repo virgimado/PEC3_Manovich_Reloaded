@@ -21,15 +21,16 @@ Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: S
 
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
 
-
-<img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-interfaz-voz_114360-4285.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="escuchar musica" width="200"/>  <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-altavoz-inalambrico_114360-20827.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="radio" width="150">
-
+<p align="center">
+<img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-interfaz-voz_114360-4285.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="escuchar musica" width="200"/>  
+</p>
 
 Es una hibridación de medios donde se conectan diferentes tecnologías para poder llegar al resultado final, averiguar qué canción es la que estamos escuchando, en tan solo unos segundos.
 
 En este caso concreto se podría considerar en que es una evolución de medios y también se podría enfocar con una perspectiva de remezcla de medios. La primera porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer, de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material. Y en la segunda porque se combinan varios recursos para poder identificar la canción como son la creación del registro donde se almacenarán todas las canciones, pasando por la captación de la canción y terminando con la utilización de diferentes algoritmos para su identificación.
 
-| <p align="center"> <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" width="200"/> | <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" width="200"/> </p>|
+
+| <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" width="200"/> | <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" width="200"/> 
 |:--:|:--:|
 | *Figura 1: Elementos del sonido* | *Figura 2: Huella digital* |
 
@@ -43,7 +44,8 @@ En las estrategias de hibridación se pueden observar, primero la creación de l
 
 La estética de la hibridación es prácticamente invisible, ya que el usuario no identifica en ningún momento ni puede ver, la parte más técnica de la aplicación, de manera que la interacción es muy sencilla.
 
-<img src="https://img.freepik.com/vector-gratis/ilustracion-devops-diseno-plano-dibujado-mano_23-2149387460.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="inventar" width="150"> Entre las técnicas independientes del medio están: 
+Entre las técnicas independientes del medio están:
+<img src="https://img.freepik.com/vector-gratis/ilustracion-devops-diseno-plano-dibujado-mano_23-2149387460.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="inventar" width="150">  
 
 - Las utilizadas para poder crear la base de datos con todas las huellas de audio, para ello se tienen que recoger datos sobre frecuencia, tiempo y amplitud que son los parámetros que tiene el sonido. De esta forma cada canción tendrá sus propios datos y con ello se realizará el reconocimiento.
 - Las técnicas utilizadas es la que identifica la canción basándose en el patrón que tiene cada canción, usando los datos anteriormente descritos para crear la huella.

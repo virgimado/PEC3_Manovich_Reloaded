@@ -37,7 +37,9 @@ Entre las técnicas independientes del medio están:
 - Las técnicas utilizadas es la que identifica la canción basándose en el patrón que tiene cada canción, usando los datos anteriormente descritos para crear la huella.
 - Hay técnicas para mostrar el resultado con la información de la carátula del disco y el artista y las que se utilizan para sugerir la música del estilo a la encontrada.<br><br>
 
+Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.
 
+<https://www.shazam.com/es-es>
 
 <img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/>
 
@@ -73,6 +75,8 @@ Se pueden considerar técnicas independientes las utilizadas para mostrar el con
 Incluso si se da un enfoque relacionado con el entorno digital, en estos recursos se muestran técnicas que no tienen relación, ya que se usan en laboratorios y otros ámbitos científicos como por ejemplo el uso de pipetas.
 
 Se combinan diferentes tipos de medios media e interactivos que en conjunto crean una herramienta adaptada para la enseñanza y el aprendizaje de distintos temas científicos.
+
+<https://www.labxchange.org/>
 
 ### Conclusión
 

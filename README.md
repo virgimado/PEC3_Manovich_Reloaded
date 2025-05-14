@@ -52,14 +52,14 @@ Entre las técnicas independientes del medio están:
 - Hay técnicas para mostrar el resultado con la información de la carátula del disco y el artista y las que se utilizan para sugerir la música del estilo a la encontrada.
 
 <p align="center">
-<img src="https://img.freepik.com/vector-gratis/fondo-diseno-ondas-sonoras-musicales-abstractas_1048-20072.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="melodia" width="150">  
+<img src="https://img.freepik.com/vector-gratis/fondo-abstracto-musical_1048-1579.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="melodia" width="150">  
 </p>
 
 Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.<br><br>
 
 
 <a href="https://www.labxchange.org/">
-<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="200"/> <https://www.labxchange.org/>
+<img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="220"/> <https://www.labxchange.org/>
 </a>
 
 
@@ -85,7 +85,9 @@ En la web se presentan tres opciones principales que son:
 
 Además contiene una biblioteca con todos los recursos y personas que forman parte de la comunidad y las fuentes desde las que se obtiene el material.
 
+<p align="center">
 <img src="https://img.freepik.com/vector-gratis/curso-distancia-isometrico_98292-7151.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="biblioteca online" width="200">
+</p>
 
 Entre el contenido se pueden diferenciar distintos tipos de recursos:
 - Vídeos
@@ -104,7 +106,7 @@ Se combinan diferentes tipos de medios media e interactivos que en conjunto crea
 
 
 
-### Conclusión
+## Conclusión
 
 Lo que antes eran combinaciones sencillas poco interactivas a nivel de medios y contenido en las aplicaciones y *software*, se ha convertido en un conjunto de técnicas, en algunos casos compuestas de complicadas bases de datos y algoritmos, donde el usuario interacciona obteniendo una experiencia más completa y satisfactoria.
 
@@ -113,7 +115,7 @@ Con toda la evolución de la tecnología y la cultura digital, se puede confirma
 En la cultura digital la evolución de los medios continúa progresando a pasos de gigante con la que se pueden realizar infinidad de funciones, tanto a nivel personal, laboral, ocio, etc.
 
 
-### Bibliografía y webgrafía
+## Bibliografía y webgrafía
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
 - *How does the Shazam app recognize music? An explanation of music recognition technology used in the Shazam app* [en línea] [consulta:mayo de 2025].Disponible en: https://www.techaheadcorp.com/blog/decoding-shazam-how-does-music-recognition-work-with-shazam-app/

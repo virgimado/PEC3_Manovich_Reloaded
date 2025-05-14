@@ -29,12 +29,10 @@ En este caso concreto se podría considerar en que es una evolución de medios y
 
 <p>
 <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" alt="elementos de sonido" width="200"/> 
-</p>
-<p"><em>Elementos del sonido</em></p>
+<em>Elementos del sonido</em></p>
 <p>
 <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" alt="elementos de sonido" width="200"/> 
-</p>
-<p><em>Elementos del sonido</em></p>
+<em>Elementos del sonido</em></p>
 
 Se obtiene una interfaz donde el usuario interactúa con elementos de diseño gráfico, bases de datos y el algoritmo de reconocimiento.
 

@@ -21,9 +21,9 @@ Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: *
 
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
 
-<p align="center">
+
 <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-interfaz-voz_114360-4285.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="escuchar musica" width="200"/>  
-</p>
+
 
 Es una hibridación de medios donde se conectan diferentes tecnologías para poder llegar al resultado final, averiguar qué canción es la que estamos escuchando, en tan solo unos segundos.
 
@@ -50,9 +50,9 @@ Entre las técnicas independientes del medio están:
 - Las técnicas utilizadas es la que identifica la canción basándose en el patrón que tiene cada canción, usando los datos anteriormente descritos para crear la huella.
 - Hay técnicas para mostrar el resultado con la información de la carátula del disco y el artista y las que se utilizan para sugerir la música del estilo a la encontrada.
 
-<p align="center">
+
 <img src="https://img.freepik.com/vector-gratis/ilustracion-devops-diseno-plano-dibujado-mano_23-2149387460.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="inventar" width="150">  
-</p>
+
 
 Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.<br><br>
 

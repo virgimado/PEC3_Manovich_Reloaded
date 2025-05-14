@@ -65,13 +65,11 @@ Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enf
 
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
 
-En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva.
+En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva. [Cómo funciona LabXChange](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
 
 <p align="center">
 <img src="https://img.freepik.com/vector-gratis/conjunto-dibujos-animados-iconos-ciencia_1284-24173.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="tecnología" width="150">
 </p>
-
-[Cómo funciona LabXChange](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
 
 Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
 

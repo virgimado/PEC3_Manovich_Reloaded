@@ -41,6 +41,7 @@ Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enf
 
 <https://www.shazam.com/es-es>
 
+
 <img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" alt="logo labxchange" width="150"/>
 
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).

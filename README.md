@@ -31,12 +31,6 @@ En este caso concreto se podría considerar en que es una evolución de medios y
 |:--:|:--:|
 | *Figura 1: Elementos del sonido* | *Figura 2: Huella digital* |
 
-
-<p>
-<img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" alt="elementos de sonido" width="200"/> <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" alt="elementos de sonido" width="200"/></p>
-<p><em>Elementos del sonido</em></p>
-<p><em>Huella digital</em></p>
-
 Se obtiene una interfaz donde el usuario interactúa con elementos de diseño gráfico, bases de datos y el algoritmo de reconocimiento.
 
 Se crea un nuevo lenguaje basado en todas las técnicas anteriores, que además se puede compartir con otras aplicaciones que siguen siendo interactivas como por ejemplo Spotify. Antes, la identificación de una canción se hacía directamente desde el conocimiento de la persona, ahora, la tecnología lo sustituye, realizándose de forma automática y prácticamente instantánea.

@@ -68,6 +68,10 @@ En este caso se trata de un recurso multimedia donde se combinan imágenes, víd
 
 Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
 
+<p align="center">
+<img src="https://img.freepik.com/vector-gratis/curso-distancia-isometrico_98292-7151.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="biblioteca online" width="200">
+</p>
+
 Aunque se fomenta el aprendizaje activo a través de los recursos interactivos, y se pueden diseñar y personalizar, no se crea un nuevo lenguaje al tratarse de una plataforma con contenido basado en textos, vídeos explicativos, etc existente en el ámbito educativo. 
 
 Se considera una plataforma de medios porque aloja contenido y permite formar parte de una comunidad, además de personalizar las preferencias para poder obtener contenido según las necesidades.
@@ -79,10 +83,6 @@ En la web se presentan tres opciones principales que son:
 - Compartir: Comunidad de profesores y alumnos.
 
 Además contiene una biblioteca con todos los recursos y personas que forman parte de la comunidad y las fuentes desde las que se obtiene el material.
-
-<p align="center">
-<img src="https://img.freepik.com/vector-gratis/curso-distancia-isometrico_98292-7151.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="biblioteca online" width="200">
-</p>
 
 Entre el contenido se pueden diferenciar distintos tipos de recursos:
 - Vídeos

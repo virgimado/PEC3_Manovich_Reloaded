@@ -51,7 +51,7 @@ Entre las técnicas independientes del medio están:
 - Hay técnicas para mostrar el resultado con la información de la carátula del disco y el artista y las que se utilizan para sugerir la música del estilo a la encontrada.
 
 
-<img src="https://img.freepik.com/vector-gratis/fondo-diseno-ondas-sonoras-musicales-abstractas_1048-20072.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="melodia" width="150">  
+<img src="https://img.freepik.com/vector-gratis/fondo-diseno-ondas-sonoras-musicales-abstractas_1048-20072.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="melodia" width="250" height"300">  
 
 
 Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.<br><br>

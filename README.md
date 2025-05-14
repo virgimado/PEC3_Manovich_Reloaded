@@ -30,9 +30,7 @@ En este caso concreto se podría considerar en que es una evolución de medios y
 <p align="left">
 <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" alt="elementos de sonido" width="200"/> 
 </p>
-<p align="left"><em>Elementos del sonido</em></p>
-
-<p align="right">
+<p align="left"><em>Elementos del sonido</em></p><p align="right">
 <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" alt="elementos de sonido" width="200"/> 
 </p>
 <p align="right"><em>Elementos del sonido</em></p>

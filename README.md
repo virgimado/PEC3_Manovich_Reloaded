@@ -21,7 +21,7 @@ Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: S
 
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
 
-<p aling="center">
+<p align="center">
  <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-interfaz-voz_114360-4285.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="escuchar musica" width="200"/> 
 </p>
 

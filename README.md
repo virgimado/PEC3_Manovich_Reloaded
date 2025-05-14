@@ -66,9 +66,6 @@ Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enf
 Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
 En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva. 
 
-![Recursos](Recursos.png)
-[Cómo funciona.](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
-
 Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
 
 Aunque se fomenta el aprendizaje activo a través de los recursos interactivos, y se pueden diseñar y personalizar, no se crea un nuevo lenguaje al tratarse de una plataforma con contenido basado en textos, vídeos explicativos, etc existente en el ámbito educativo. 
@@ -93,6 +90,9 @@ Entre el contenido se pueden diferenciar distintos tipos de recursos:
 - Guías didácticas
 - Material interactivo
 - Grupos con diferentes combinaciones de los anteriores
+
+![Recursos](Recursos.png)
+                   [Cómo funciona.](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
 
 La estética de la hibridación se muestra ordenada, intuitiva y sencilla. El usuario distingue cada tipo de material y la combinación de las distintas técnicas para la elaboración de cada recurso se complementa perfectamente hasta obtener el material final con el que el usuario realizará su experiencia.
 

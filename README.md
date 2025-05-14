@@ -72,8 +72,15 @@ Se pueden considerar técnicas independientes las utilizadas para mostrar el con
 
 Incluso si se da un enfoque relacionado con el entorno digital, en estos recursos se muestran técnicas que no tienen relación, ya que se usan en laboratorios y otros ámbitos científicos como por ejemplo el uso de pipetas.
 
+Se combinan diferentes tipos de medios media e interactivos que en conjunto crean una herramienta adaptada para la enseñanza y el aprendizaje de distintos temas científicos.
 
 ### Conclusión
+
+Lo que antes eran combinaciones sencillas poco interactivas a nivel de medios y contenido en las aplicaciones y *software*, se ha convertido en un conjunto de técnicas, en algunos casos compuestas de complicadas bases de datos y algoritmos, donde el usuario interacciona obteniendo una experiencia más completa y satisfactoria.
+
+Con toda la evolución de la tecnología y la cultura digital, se puede confirmar que las técnicas de distintos medios que hasta entonces habían sido incompatibles empiezan a combinarse en infinitas y novedosas combinaciones, lo que da pie al nacimiento de nuevos medios híbridos (Manovich,  2013).
+
+En la cultura digital la evolución de los medios continúa progresando a pasos de gigante con la que se pueden realizar infinidad de funciones, tanto a nivel personal, laboral, ocio, etc.
 
 
 ### Bibliografía y webgrafía

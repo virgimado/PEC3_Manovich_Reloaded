@@ -27,10 +27,15 @@ Es una hibridación de medios donde se conectan diferentes tecnologías para pod
 
 En este caso concreto se podría considerar en que es una evolución de medios y también se podría enfocar con una perspectiva de remezcla de medios. La primera porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer, de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material. Y en la segunda porque se combinan varios recursos para poder identificar la canción como son la creación del registro donde se almacenarán todas las canciones, pasando por la captación de la canción y terminando con la utilización de diferentes algoritmos para su identificación. 
 
+| <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" width="200"/> | <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" width="200"/> |
+|:--:|:--:|
+| *Figura 1: Elementos del sonido* | *Figura 2: Huella digital* |
+
+
 <p>
 <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" alt="elementos de sonido" width="200"/> <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" alt="elementos de sonido" width="200"/></p>
 <p><em>Elementos del sonido</em></p>
-<p><em>Elementos del sonido</em></p>
+<p><em>Huella digital</em></p>
 
 Se obtiene una interfaz donde el usuario interactúa con elementos de diseño gráfico, bases de datos y el algoritmo de reconocimiento.
 

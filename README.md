@@ -15,9 +15,9 @@ Para realizar un análisis sobre si una aplicación es una hibridación de medio
 Partiendo de esta base, se analizarán dos ejemplos con diferentes utilidades: Shazam y LabXChange.<br><br>
 
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="150"/> <https://www.shazam.com/es-es>
-
+<a href="https://www.shazam.com/es-es">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg" alt="logo shazam" width="150"/> 
+</a>
 Es una aplicación basada en reconocimiento automático para averiguar canciones en unos segundos. También se pueden consultar conciertos y listas musicales basadas en el mismo tipo de música detectado. Además se puede enlazar con Apple Music o Spotify.
 
 Es una hibridación de medios donde se conectan diferentes tecnologías para poder llegar al resultado final, averiguar qué canción es la que estamos escuchando, en tan solo unos segundos.

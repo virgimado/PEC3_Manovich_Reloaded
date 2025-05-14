@@ -68,8 +68,7 @@ Es una plataforma online gratuita que ofrece a profesores y alumnos contenido di
 En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva.
 
 
-
-[Video LabXChange]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://www.youtube.com/watch?v](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s))
+[Video LabXChange](https://www.youtube.com/watch?v](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
 
 <p align="center">
 <img src="https://img.freepik.com/vector-gratis/conjunto-dibujos-animados-iconos-ciencia_1284-24173.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="tecnología" width="150">

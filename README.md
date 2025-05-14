@@ -95,9 +95,7 @@ Entre el contenido se pueden diferenciar distintos tipos de recursos:
 - Simuladores interactivos
 <img src="Simulador.png" alt="simulador" width="200">
 - Guías didácticas
-
 - Material interactivo
-
 - Grupos con diferentes combinaciones de los anteriores
 <img src="Varios.png" alt="varios recursos" width="200">
 

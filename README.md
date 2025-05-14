@@ -48,14 +48,13 @@ Entre las técnicas independientes del medio están:
 
 - Las utilizadas para poder crear la base de datos con todas las huellas de audio, para ello se tienen que recoger datos sobre frecuencia, tiempo y amplitud que son los parámetros que tiene el sonido. De esta forma cada canción tendrá sus propios datos y con ello se realizará el reconocimiento.
 - Las técnicas utilizadas es la que identifica la canción basándose en el patrón que tiene cada canción, usando los datos anteriormente descritos para crear la huella.
-- Hay técnicas para mostrar el resultado con la información de la carátula del disco y el artista y las que se utilizan para sugerir la música del estilo a la encontrada.<br><br>
+- Hay técnicas para mostrar el resultado con la información de la carátula del disco y el artista y las que se utilizan para sugerir la música del estilo a la encontrada.
 
 <p align="center">
 <img src="https://img.freepik.com/vector-gratis/ilustracion-devops-diseno-plano-dibujado-mano_23-2149387460.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="inventar" width="150">  
 </p>
 
-Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.
-
+Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enfoca directarmente al fin para el que ha sido creada.<br><br>
 
 
 <a href="https://www.labxchange.org/">

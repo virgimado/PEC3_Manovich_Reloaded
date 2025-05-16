@@ -35,7 +35,7 @@ En este caso concreto se podría considerar en que es una evolución de medios y
 |:--:|:--:|
 | *Figura 1: Elementos del sonido* | *Figura 2: Huella digital* |
 
-Se obtiene una interfaz donde el usuario interactúa con elementos de diseño gráfico, bases de datos y el algoritmo de reconocimiento.
+Se obtiene una interfaz donde el usuario interactúa con elementos de diseño gráfico, bases de datos y el algoritmo de reconocimiento en un menú sencillo y con los elementos necesarios para la función de reconocimiento,, la biblioteca donde se muestra la información de la música obtenida y otro apartado para conciertos.
 
 Se crea un nuevo lenguaje basado en todas las técnicas anteriores, que además se puede compartir con otras aplicaciones que siguen siendo interactivas como por ejemplo Spotify. Antes, la identificación de una canción se hacía directamente desde el conocimiento de la persona, ahora, la tecnología lo sustituye, realizándose de forma automática y prácticamente instantánea.
 
@@ -74,12 +74,12 @@ En este caso se trata de un recurso multimedia donde se combinan imágenes, víd
                    [Cómo funciona.](https://www.youtube.com/watch?v=G8TF0fnSo_M&t=4s)
 
 
-Es una remezcla de medios donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
+Es una **remezcla de medios** donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
 
 
 Aunque se fomenta el aprendizaje activo a través de los recursos interactivos, y se pueden diseñar y personalizar, no se crea un nuevo lenguaje al tratarse de una plataforma con contenido basado en textos, vídeos explicativos, etc existente en el ámbito educativo. 
 
-Se considera una plataforma de medios porque aloja contenido y permite formar parte de una comunidad, además de personalizar las preferencias para poder obtener contenido según las necesidades.
+Es una **plataforma de medios** porque aloja contenido y permite formar parte de una comunidad, además de personalizar las preferencias para poder obtener contenido según las necesidades.
 
 En la web se presentan tres opciones principales que son:
 

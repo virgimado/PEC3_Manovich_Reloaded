@@ -25,7 +25,7 @@ Es una aplicación basada en reconocimiento automático para averiguar canciones
 Es una hibridación de medios donde se conectan diferentes tecnologías para poder llegar al resultado final, averiguar qué canción es la que estamos escuchando, en tan solo unos segundos.
 
 <p align="center">
-<img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-interfaz-voz_114360-4285.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="escuchar musica" width="200"/>  
+<img src="https://www.infobae.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-wordpress-client-uploads%2Finfobae-wp%2Fwp-content%2Fuploads%2F2017%2F12%2F12133044%2FScreenshot_20171212-132446.png?auth=9a4d4d917dc8f22c9d4c6effc36062901c837440536c00ad62a96d6351a2b16a&smart=true&width=992&height=1764&quality=85" alt="escuchar musica" width="200"/>  
 </p>
 
 En este caso concreto se podría considerar en que es una **evolución de medios** porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer (a no ser que alguien supiera de qué canción se trataba), de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material, esta visión la da Manovich con su afirmación "las nuevas «especies de medios» pueden aparecer de la noche a la mañana; solo necesitamos una idea novedosa y algo de programación". 

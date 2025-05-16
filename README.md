@@ -28,7 +28,7 @@ Es una hibridación de medios donde se conectan diferentes tecnologías para pod
 <img src="https://www.infobae.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-wordpress-client-uploads%2Finfobae-wp%2Fwp-content%2Fuploads%2F2017%2F12%2F12133044%2FScreenshot_20171212-132446.png?auth=9a4d4d917dc8f22c9d4c6effc36062901c837440536c00ad62a96d6351a2b16a&smart=true&width=992&height=1764&quality=85" alt="escuchar musica" width="150"/>  
 </p>
 
-En este caso concreto se podría considerar en que es una **evolución de medios** porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer (a no ser que alguien supiera de qué canción se trataba), de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material, esta visión la da Manovich con su afirmación "las nuevas «especies de medios» pueden aparecer de la noche a la mañana; solo necesitamos una idea novedosa y algo de programación". 
+En este caso concreto se podría considerar en que es una **evolución de medios** porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer (a no ser que alguien supiera de qué canción se trataba), de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material. Esta visión la da Manovich con su afirmación "las nuevas «especies de medios» pueden aparecer de la noche a la mañana; solo necesitamos una idea novedosa y algo de programación". 
 
 También se podría enfocar con una perspectiva de **remezcla de medios** porque se combinan varios recursos para poder identificar la canción como son la creación del registro donde se almacenarán todas las canciones, pasando por la captación de la canción y terminando con la utilización de diferentes algoritmos para su identificación.
 
@@ -37,13 +37,13 @@ También se podría enfocar con una perspectiva de **remezcla de medios** porque
 |:--:|:--:|
 | *Figura 1: Elementos del sonido* | *Figura 2: Huella digital* |
 
-Se obtiene una interfaz donde el usuario interactúa con elementos de diseño gráfico, bases de datos y el algoritmo de reconocimiento en un menú sencillo y con los elementos necesarios para la función de reconocimiento,, la biblioteca donde se muestra la información de la música obtenida y otro apartado para conciertos.
+Se obtiene una interfaz donde el usuario interactúa con elementos de diseño gráfico, bases de datos y el algoritmo de reconocimiento. Es un menú sencillo, con la tecla principal para realizar el reconocimiento de la cancón, la biblioteca donde se muestra la información de la música obtenida y otro apartado para conciertos.
 
-Se crea un nuevo lenguaje basado en todas las técnicas anteriores, que además se puede compartir con otras aplicaciones que siguen siendo interactivas como por ejemplo Spotify. Antes, la identificación de una canción se hacía directamente desde el conocimiento de la persona, ahora, la tecnología lo sustituye, realizándose de forma automática y prácticamente instantánea.
+Se crea un **nuevo lenguaje** basado en todas las técnicas anteriores, principalmente las que procesan los datos para crear la huella sonora digita. Además se puede compartir con otras aplicaciones que siguen siendo interactivas como por ejemplo Spotify. Antes, la identificación de una canción se hacía directamente desde el conocimiento de la persona, ahora, la tecnología lo sustituye, realizándose de forma automática y prácticamente instantánea.
 
 Aunque se conecta con otras aplicaciones, no se puede considerar una plataforma de medios, ya que sirve para identificar canciones pero no permite interactuar con otros usuarios ni tampoco intercambiar información entre ellos desde la plataforma. En este caso habría que utilizar las aplicaciones con las que se enlaza para poder escuchar una canción entera, ver el vídeo o crear listas personalizadas y compartir el contenido.
 
-En las estrategias de hibridación se pueden observar, primero la creación de la huella digital de audio, pasando la música analógica a la digitalización y colocándolas en una base de datos donde se almacenan. Para el reconocimiento de la canción, hay que pasar la canción de forma analógica a digital, al captarla con el dispositivo. El paso siguiente es reconocer esa canción utilizando el algoritmo que identifica la canción en Shazam, enviando la respuesta al dispositivo.
+En las **estrategias de hibridación** se pueden observar, primero la creación de la huella digital de audio, pasando la música analógica a la digitalización y colocándolas en una base de datos donde se almacenan. Para el reconocimiento de la canción, hay que pasar la canción de forma analógica a digital, al captarla con el dispositivo. El paso siguiente es reconocer esa canción utilizando el algoritmo que identifica la canción en Shazam, enviando la respuesta al dispositivo.
 
 La estética de la hibridación es prácticamente invisible, ya que el usuario no identifica en ningún momento ni puede ver, la parte más técnica de la aplicación, de manera que la interacción es muy sencilla.
 
@@ -68,7 +68,7 @@ Es una aplicación fácil de utilizar, con un interfaz muy sencilla y que se enf
 </a>
 
 
-Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites (LabXChange).
+Es una plataforma online gratuita que ofrece a profesores y alumnos contenido digital, en forma de recursos interactivos y simuladores para realizar un aprendizaje activo en ciencias. "Experimente lo que debería ser la ciencia: exploración a través del pensamiento audaz, la colaboración y una imaginación sin límites" (LabXChange).
 En este caso se trata de un recurso multimedia donde se combinan imágenes, vídeos, sonido, simulaciones interactivas y todo lo relacionado con la creación de la experiencia interactiva. 
 
 
@@ -78,8 +78,7 @@ En este caso se trata de un recurso multimedia donde se combinan imágenes, víd
 
 Es una **remezcla de medios** donde se utilizan materiales multimedia de otras plataformas y se combinan y organizan para que el usuario pueda identificarlo y utilizarlo de manera eficiente. Se crea una experiencia interactiva pero con recursos ya existentes.
 
-
-Aunque se fomenta el aprendizaje activo a través de los recursos interactivos, y se pueden diseñar y personalizar, no se crea un nuevo lenguaje al tratarse de una plataforma con contenido basado en textos, vídeos explicativos, etc existente en el ámbito educativo. 
+Aunque se fomenta el aprendizaje activo a través de los recursos interactivos, y se pueden diseñar y personalizar, no se crea un nuevo lenguaje al tratarse de una plataforma con contenido basado en textos, vídeos explicativos, etc muy utilizados ya en el ámbito educativo. 
 
 Es una **plataforma de medios** porque aloja contenido y permite formar parte de una comunidad, además de personalizar las preferencias para poder obtener contenido según las necesidades.
 
@@ -102,11 +101,11 @@ Entre el contenido se pueden diferenciar distintos tipos de recursos:
 
 La estética de la hibridación se muestra ordenada, intuitiva y sencilla. El usuario distingue cada tipo de material y la combinación de las distintas técnicas para la elaboración de cada recurso se complementa perfectamente hasta obtener el material final con el que el usuario realizará su experiencia.
 
-En este caso y siguiendo la descripción de Manovich "una técnica independiente del medio es un conjunto de algoritmos que realizan una tarea conceptualmente similar, pero que en su aplicación funcionan con estructuras de datos diversas", aquí se incluyen las que contiene LabXChange que son por ejemplo las utilizadas para mostrar el contenido personalizado según las preferencias del usuario. También lo serían las técnicas que hacen que se agrupen los diferentes recursos y convergen en un mismo recurso de aprendizaje.
+En este caso y siguiendo la descripción de Manovich "una **técnica independiente** del medio es un conjunto de algoritmos que realizan una tarea conceptualmente similar, pero que en su aplicación funcionan con estructuras de datos diversas", aquí se incluyen las que contiene LabXChange que son por ejemplo las utilizadas para mostrar el contenido personalizado según las preferencias del usuario. También lo serían las técnicas que hacen que se agrupen los diferentes recursos y convergen en un mismo recurso de aprendizaje.
 
 Incluso si se da un enfoque relacionado con el entorno digital, en estos recursos se muestran técnicas que no tienen relación, ya que se usan en laboratorios y otros ámbitos científicos como por ejemplo el uso de pipetas.
 
-Se combinan diferentes tipos de medios media e interactivos que en conjunto crean una herramienta adaptada para la enseñanza y el aprendizaje de distintos temas científicos.
+Según Manovich, en el proceso de evolución del metamedio ordenador, los diversos tipos de medios media se remezclan para formar nuevas combinaciones. En este caso, se combinan diferentes **tipos de medios media e interactivos** que en conjunto crean una herramienta adaptada para la enseñanza y el aprendizaje de distintos temas científicos.
 
 <p align="center">
 <img src="https://img.freepik.com/vector-gratis/conjunto-dibujos-animados-iconos-ciencia_1284-24173.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="tecnología" width="150">
@@ -120,7 +119,7 @@ Con toda la evolución de la tecnología y la cultura digital, se puede confirma
 
 En la cultura digital la evolución de los medios continúa progresando a pasos de gigante con la que se pueden realizar infinidad de funciones, tanto a nivel personal, laboral, ocio, etc.
 
-Para obtner más información sobre cómo funciona cada ejemplo, se puede hacer click sobre el logo de cada una de ellas para ir a su página web.
+Para obtner más información sobre cómo funciona cada ejemplo, se puede acceder a cada una de ellas, haciendo click en el logo.
 
 ## Bibliografía y webgrafía
 

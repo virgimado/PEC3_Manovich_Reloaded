@@ -47,7 +47,7 @@ En las **estrategias de hibridación** se pueden observar, primero la creación 
 
 La estética de la hibridación es prácticamente invisible, ya que el usuario no identifica en ningún momento ni puede ver, la parte más técnica de la aplicación, de manera que la interacción es muy sencilla.
 
-Según Manovich, "una técnica específica del medio es un algoritmo que puede funcionar únicamente con una estructura de datos". En este caso se utilizan diferentes formas de "recoger" y de interpretar el sonido, todas ellas están relacionadas con el sonido:
+Según Manovich, "**una técnica específica** del medio es un algoritmo que puede funcionar únicamente con una estructura de datos". En este caso se utilizan diferentes formas de "recoger" y de interpretar el sonido, todas ellas están relacionadas con el sonido:
 
 - Las utilizadas para poder crear la base de datos con todas las huellas de audio, para ello se tienen que recoger datos sobre frecuencia, tiempo y amplitud que son los parámetros que tiene el sonido. De esta forma cada canción tendrá sus propios datos y con ello se realizará el reconocimiento.
 - Las técnicas utilizadas es la que identifica la canción basándose en el patrón que tiene cada canción, usando los datos anteriormente descritos para crear la huella.

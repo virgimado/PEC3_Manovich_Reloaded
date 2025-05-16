@@ -119,7 +119,7 @@ Con toda la evolución de la tecnología y la cultura digital, se puede confirma
 
 En la cultura digital la evolución de los medios continúa progresando a pasos de gigante con la que se pueden realizar infinidad de funciones, tanto a nivel personal, laboral, ocio, etc.
 
-Para obtner más información sobre cómo funciona cada ejemplo, se puede acceder a cada una de ellas, haciendo click en el logo.
+Para obtner más información sobre cómo funciona cada ejemplo, se puede acceder a cada una de ellas, haciendo click en su logo correspondiente.
 
 ## Bibliografía y webgrafía
 

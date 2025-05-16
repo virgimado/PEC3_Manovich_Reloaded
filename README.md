@@ -28,7 +28,9 @@ Es una hibridación de medios donde se conectan diferentes tecnologías para pod
 <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-interfaz-voz_114360-4285.jpg?uid=R195581996&ga=GA1.1.357206433.1710496982&w=740" alt="escuchar musica" width="200"/>  
 </p>
 
-En este caso concreto se podría considerar en que es una evolución de medios y también se podría enfocar con una perspectiva de remezcla de medios. La primera porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer, de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material. Y en la segunda porque se combinan varios recursos para poder identificar la canción como son la creación del registro donde se almacenarán todas las canciones, pasando por la captación de la canción y terminando con la utilización de diferentes algoritmos para su identificación.
+En este caso concreto se podría considerar en que es una **evolución de medios** porque nos ayuda desde un punto de vista tecnológico a identificar una canción que antes no podíamos hacer (a no ser que alguien supiera de qué canción se trataba), de forma que utiliza el teléfono móvil como medio, buscando la huella digital que se crea, pasando por los algoritmos y las bases de datos donde se registra el material, esta visión la da Manovich con su afirmación "las nuevas «especies de medios» pueden aparecer de la noche a la mañana; solo necesitamos una idea novedosa y algo de programación". 
+
+También se podría enfocar con una perspectiva de **remezcla de medios** porque se combinan varios recursos para poder identificar la canción como son la creación del registro donde se almacenarán todas las canciones, pasando por la captación de la canción y terminando con la utilización de diferentes algoritmos para su identificación.
 
 
 | <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-02.png" width="200"/> | <img src="https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-27907ec/www.techaheadcorp.com/wp-content/uploads/2022/10/blog-image-03.png" width="200"/> 
@@ -45,7 +47,7 @@ En las estrategias de hibridación se pueden observar, primero la creación de l
 
 La estética de la hibridación es prácticamente invisible, ya que el usuario no identifica en ningún momento ni puede ver, la parte más técnica de la aplicación, de manera que la interacción es muy sencilla.
 
-Entre las técnicas independientes del medio están:
+Según Manovich, "una técnica específica del medio es un algoritmo que puede funcionar únicamente con una estructura de datos". En este caso se utilizan diferentes formas de "recoger" y de interpretar el sonido, todas ellas están relacionadas con el sonido:
 
 - Las utilizadas para poder crear la base de datos con todas las huellas de audio, para ello se tienen que recoger datos sobre frecuencia, tiempo y amplitud que son los parámetros que tiene el sonido. De esta forma cada canción tendrá sus propios datos y con ello se realizará el reconocimiento.
 - Las técnicas utilizadas es la que identifica la canción basándose en el patrón que tiene cada canción, usando los datos anteriormente descritos para crear la huella.
@@ -100,7 +102,7 @@ Entre el contenido se pueden diferenciar distintos tipos de recursos:
 
 La estética de la hibridación se muestra ordenada, intuitiva y sencilla. El usuario distingue cada tipo de material y la combinación de las distintas técnicas para la elaboración de cada recurso se complementa perfectamente hasta obtener el material final con el que el usuario realizará su experiencia.
 
-Se pueden considerar técnicas independientes las utilizadas para mostrar el contenido personalizado según las preferencias del usuario. También lo serían las técnicas que hacen que se agrupen los diferentes recursos y convergen en un mismo recurso de aprendizaje.
+En este caso y siguiendo la descripción de Manovich "una técnica independiente del medio es un conjunto de algoritmos que realizan una tarea conceptualmente similar, pero que en su aplicación funcionan con estructuras de datos diversas", aquí se incluyen las que contiene LabXChange que son por ejemplo las utilizadas para mostrar el contenido personalizado según las preferencias del usuario. También lo serían las técnicas que hacen que se agrupen los diferentes recursos y convergen en un mismo recurso de aprendizaje.
 
 Incluso si se da un enfoque relacionado con el entorno digital, en estos recursos se muestran técnicas que no tienen relación, ya que se usan en laboratorios y otros ámbitos científicos como por ejemplo el uso de pipetas.
 
